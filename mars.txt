@@ -1,3 +1,7 @@
 Cold and dry,  but everything is my favorite color
 The two moons may be a problem for Wofman
+<<<<<<< HEAD
 Hello~
+=======
+third line - edited
+>>>>>>> d9d7fbfb614ee264574b0d9229b1508594ce1950
